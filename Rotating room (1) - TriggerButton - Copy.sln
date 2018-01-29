@@ -1,0 +1,41 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{37765528-FFFF-86B0-07C4-914F61BC19FA}") = "Rotating room (1) - TriggerButton - Copy", "Assembly-CSharp-firstpass.csproj", "{851B78E2-9C6C-0582-8EE3-46E970D5760F}"
+EndProject
+Project("{37765528-FFFF-86B0-07C4-914F61BC19FA}") = "Rotating room (1) - TriggerButton - Copy", "Assembly-CSharp.csproj", "{7A7D88D5-20B2-477D-D926-EBF5761AFFB8}"
+EndProject
+Project("{37765528-FFFF-86B0-07C4-914F61BC19FA}") = "Rotating room (1) - TriggerButton - Copy", "Assembly-CSharp-Editor.csproj", "{318E4816-938C-F355-A061-3CE55E2DBBC0}"
+EndProject
+Project("{37765528-FFFF-86B0-07C4-914F61BC19FA}") = "Rotating room (1) - TriggerButton - Copy", "Assembly-UnityScript.unityproj", "{C85C214F-A852-0D56-013B-ACB3BC61E82E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{851B78E2-9C6C-0582-8EE3-46E970D5760F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851B78E2-9C6C-0582-8EE3-46E970D5760F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851B78E2-9C6C-0582-8EE3-46E970D5760F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851B78E2-9C6C-0582-8EE3-46E970D5760F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7D88D5-20B2-477D-D926-EBF5761AFFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7D88D5-20B2-477D-D926-EBF5761AFFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7D88D5-20B2-477D-D926-EBF5761AFFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7D88D5-20B2-477D-D926-EBF5761AFFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318E4816-938C-F355-A061-3CE55E2DBBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318E4816-938C-F355-A061-3CE55E2DBBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318E4816-938C-F355-A061-3CE55E2DBBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318E4816-938C-F355-A061-3CE55E2DBBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85C214F-A852-0D56-013B-ACB3BC61E82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85C214F-A852-0D56-013B-ACB3BC61E82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85C214F-A852-0D56-013B-ACB3BC61E82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85C214F-A852-0D56-013B-ACB3BC61E82E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
